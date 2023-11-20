@@ -31,7 +31,8 @@ Welcome to my GitHub profile!
 
 ## 📊 My GitHub Stats
 
-Aida Gomezbueno's GitHub Stats ([https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=aidagomezbueno&show_icons=true&theme=radical))
+![Aida Gomezbueno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aidagomezbueno&show_icons=true&theme=radical)
+
 
 ## 💻 Technologies & Tools
 <!-- List or showcase logos of technologies and tools you use -->
