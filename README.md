@@ -8,7 +8,7 @@
 Welcome to my GitHub profile!
 
 ## 🙋‍♀️ About Me
-- 🎓 I'm a Computer Engineering graduate with an additional focus on Digital Business Transformation.
+- 🎓 I'm a Software Engineering graduate with an additional focus on Digital Business Transformation.
 - 🌱 I’m currently pursuing a Master's degree in Computer Science & Business Technology.
 - 👯 I’m particularly passionate about Artificial Intelligence and Machine Learning, and always eager to collaborate on projects in these areas.
 - 🤔 I’m keen on applying AI and ML techniques to solve real-world problems.
