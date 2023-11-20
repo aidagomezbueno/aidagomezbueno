@@ -5,8 +5,6 @@
 <a href="https://linkedin.com/in/aidagomezbueno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidagomezbueno" height="30" width="40" /></a>
 </p>
 
-# Hello, I'm Aida! 👩‍💻
-
 Welcome to my GitHub profile!
 
 ## 🙋‍♀️ About Me
