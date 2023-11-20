@@ -23,12 +23,6 @@ Welcome to my GitHub profile!
 ## 📁 Featured Projects
 <!-- Highlight some of your best projects here with descriptions and links -->
 
-## 📚 My Latest Blog Posts
-<!-- Links to your latest blog posts, if you write about tech -->
-
-## 🌐 Social Media and Contact
-<!-- Links to your social media profiles or professional portfolio -->
-
 ## 🏆 Achievements & Certifications
 <!-- Display any relevant achievements or certifications you've earned -->
 
