@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aida Gomezbueno Berezo</h1>
+<h1 align="center">Hi 👋, I'm Aida Gomezbueno</h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -8,18 +8,19 @@
 Welcome to my GitHub profile!
 
 ## 🙋‍♀️ About Me
-- 🎓 I'm a Software Engineering graduate with an additional focus on Digital Business Transformation.
-- 🌱 I’m currently pursuing a Master's degree in Computer Science & Business Technology.
-- 👯 I’m particularly passionate about Artificial Intelligence and Machine Learning, and always eager to collaborate on projects in these areas.
-- 🤔 I’m keen on applying AI and ML techniques to solve real-world problems.
+- 🎓 I'm a Software Engineering graduate with an emphasis on Digital Business Transformation, combining technical proficiency with strategic business acumen.
+- 🌱 Pursuing a Master's degree in Computer Science & Business Technology, ready to enhance my data analysis, machine learning, and AI expertise for innovative and transformative outcomes.
+- 👯 Passionate about Artificial Intelligence and Machine Learning, I'm always eager to collaborate on projects in these fields that address complex challenges.
+- 🤔 Committed to utilizing AI and ML techniques to develop practical solutions for a dynamic, data-driven landscape.
+- 💼 Aspiring to apply my skills broadly across tech-driven initiatives, aiming to impact the digital transformation of businesses and industries.
 
-## 📁 Featured Projects
+<!-- ## 📁 Featured Projects -->
 <!-- Highlight some of your best projects here with descriptions and links -->
 
-## 🏆 Achievements & Certifications
+<!-- ## 🏆 Achievements & Certifications   -->
 <!-- Display any relevant achievements or certifications you've earned -->
 
-## 📅 Upcoming Projects
+<!-- ## 📅 Upcoming Projects   -->
 <!-- Share some insights into your future projects or ambitions -->
 
 ## 💻 Technologies & Tools
