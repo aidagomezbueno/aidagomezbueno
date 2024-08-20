@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 ## 🙋‍♀️ About Me
 * 🎓 Data Scientist with a strong background in Software Engineering and a Master's degree in Computer Science & Business Technology, specialized in Artificial Intelligence. My expertise combines advanced technical skills with strategic business insight.
-* 👯 Passionate about AI and Machine Learning, always eager to collaborate on projects that address complex challenges in a data-centric world—--committed to leverage both technologies to develop practical solutions that drive business strategies and digital transformation.
+* 👯 Passionate about AI and Machine Learning, always eager to collaborate on projects that address complex challenges in a data-centric world&mdash;committed to leverage both technologies to develop practical solutions that drive business strategies and digital transformation.
 * 💼 Experienced in technology audits, process optimization, and data analysis, with a proven track record of enhancing operational efficiencies and delivering impactful solutions.
 
 <!-- ## 📁 Featured Projects -->
